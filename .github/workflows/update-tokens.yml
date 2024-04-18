@@ -1,4 +1,4 @@
-name: Generate design tokens
+name: Generate design tokens test
 
 on:
   repository_dispatch:
